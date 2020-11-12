@@ -116,7 +116,7 @@ header {
   left: 0;
   right: 0;
   display: flex;
-  background-color: #242526;
+  background-color: green;
 }
 
 .links a {
